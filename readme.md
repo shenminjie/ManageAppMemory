@@ -2,7 +2,7 @@
 # 如何管理应用内存
 
 ## 使用Android Profiler进行查看使用内存的情况
-### 使用ComponentCallbacks2进行监听各大组件内存情况，及时释放资源（Activity，Application,Service,ContentProvider）
+<p> 使用ComponentCallbacks2进行监听各大组件内存情况，及时释放资源（Activity，Application,Service,ContentProvider）</p>
 
 ## 使用更高效的代码
 ### 谨慎使用service，如若使用及时释放资源,建议使用IntentService
